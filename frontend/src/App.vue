@@ -88,7 +88,7 @@ const toggleMusic = () => {
         <footer
           class="text-center py-10 opacity-50 text-[10px] tracking-widest uppercase"
         >
-          Created with love by Ray Jati Kautsar
+          Created with love by Dzikri M Noer
         </footer>
       </main>
 

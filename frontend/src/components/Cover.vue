@@ -55,14 +55,14 @@ onMounted(() => {
           <h1
             class="text-6xl md:text-8xl font-serif text-charcoal leading-tight"
           >
-            Ray <span class="text-teal-deep font-light">&</span> Partner
+            Dzikri <span class="text-teal-deep font-light">&</span> Mita
           </h1>
         </div>
 
         <div class="flex items-center justify-center gap-4 text-charcoal/60">
           <div class="h-[1px] w-8 bg-teal-deep/30"></div>
           <p class="text-sm font-medium tracking-[0.2em] uppercase">
-            11 . 07 . 2026
+            14 . 12 . 2026
           </p>
           <div class="h-[1px] w-8 bg-teal-deep/30"></div>
         </div>
@@ -70,7 +70,7 @@ onMounted(() => {
 
       <div class="mt-12 space-y-4">
         <p class="text-[10px] uppercase tracking-widest text-charcoal/50">
-          Special Guest:
+          Tamu Undangan:
         </p>
         <div
           class="bg-white/60 backdrop-blur-md border border-white/80 py-4 px-8 rounded-2xl shadow-[0_8px_30px_rgb(0,0,0,0.04)] inline-block min-w-[250px]"
@@ -78,7 +78,7 @@ onMounted(() => {
           <h2
             class="text-charcoal font-serif text-2xl italic tracking-wide capitalize"
           >
-            {{ namaTamu }}
+            {{ Faiz (bogez) & Partner }}
           </h2>
         </div>
       </div>
