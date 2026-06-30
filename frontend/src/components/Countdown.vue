@@ -1,8 +1,8 @@
 <script setup>
 import { ref, onMounted } from "vue";
 
-// Target waktu: 11 Juli 2026 jam 08:00 Pagi
-const targetDate = new Date("2026/07/11 08:00:00").getTime();
+// Target waktu: 14 Desember 2026 jam 08:00 Pagi
+const targetDate = new Date("2026/12/14 08:00:00").getTime();
 
 const days = ref(0);
 const hours = ref(0);
@@ -59,7 +59,7 @@ onMounted(() => {
         <div class="flex items-center justify-center gap-3">
           <div class="h-[1px] w-8 bg-charcoal/10"></div>
           <p class="text-sm font-serif italic text-charcoal/50">
-            Save the Date: 11 Juli 2026
+            Save the Date: 14 Desember 2026
           </p>
           <div class="h-[1px] w-8 bg-charcoal/10"></div>
         </div>

@@ -58,12 +58,12 @@
             data-aos-delay="200"
           >
             <h3 class="text-4xl font-serif font-bold text-charcoal">
-              Ray Jati Kautsar
+              Dzikri M Noer
             </h3>
             <p
               class="text-teal-deep text-sm font-bold tracking-[0.3em] uppercase"
             >
-              @rayjati
+              @dzikrinoor
             </p>
             <div class="h-[1px] w-full bg-teal-deep/10 my-4"></div>
             <p class="text-sm text-charcoal/70 leading-relaxed max-w-xs">
@@ -71,8 +71,8 @@
               <span
                 class="text-charcoal font-bold text-base block mt-2 font-serif italic tracking-wide underline decoration-teal-deep/10 underline-offset-8"
               >
-                Bapak Nama Ayah <br />
-                & Ibu Nama Ibu
+                Bapak Mulyadi (alm) <br />
+                & Ibu Nurkilah
               </span>
             </p>
           </div>
@@ -101,12 +101,12 @@
             data-aos-delay="200"
           >
             <h3 class="text-4xl font-serif font-bold text-charcoal">
-              Nama Pasangan
+              Mita Purnamasari
             </h3>
             <p
               class="text-teal-deep text-sm font-bold tracking-[0.3em] uppercase"
             >
-              @instagram_pasangan
+              @itta_philles
             </p>
             <div class="h-[1px] w-full bg-teal-deep/10 my-4"></div>
             <p
@@ -116,8 +116,8 @@
               <span
                 class="text-charcoal font-bold text-base block mt-2 font-serif italic tracking-wide underline decoration-teal-deep/10 underline-offset-8"
               >
-                Bapak Nama Ayah <br />
-                & Ibu Nama Ibu
+                Bapak Siswanto <br />
+                & Ibu Maemunah
               </span>
             </p>
           </div>

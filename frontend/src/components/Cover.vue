@@ -78,7 +78,7 @@ onMounted(() => {
           <h2
             class="text-charcoal font-serif text-2xl italic tracking-wide capitalize"
           >
-            {{ Faiz (bogez) & Partner }}
+            {{ namaTamu }}
           </h2>
         </div>
       </div>

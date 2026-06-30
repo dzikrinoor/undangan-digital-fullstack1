@@ -48,17 +48,17 @@
 
             <div class="space-y-8">
               <div class="flex flex-col md:flex-row items-center gap-6">
-                <span class="text-7xl font-serif text-charcoal">11</span>
+                <span class="text-7xl font-serif text-charcoal">14</span>
                 <div
                   class="flex flex-col border-l border-teal-deep/20 pl-6 text-left"
                 >
                   <span
                     class="text-xl font-bold uppercase tracking-widest text-charcoal"
-                    >Juli 2026</span
+                    >Desember 2026</span
                   >
                   <span
                     class="text-xs text-teal-deep font-bold uppercase tracking-[0.2em]"
-                    >Sabtu Pagi</span
+                    >Senin Pagi</span
                   >
                 </div>
               </div>
@@ -81,7 +81,7 @@
                   <p
                     class="text-sm text-charcoal/70 leading-relaxed italic font-serif"
                   >
-                    Gedung Pernikahan Bandung<br />Jl. Alamat Lengkap No. 123
+                    Kediaman Mempelai Wanita<br />Kp. Bojong Nangka, Ds. Bojong Catang, Kec.Tunjung Teja
                   </p>
                 </div>
               </div>
@@ -102,17 +102,17 @@
 
             <div class="space-y-8">
               <div class="flex flex-col md:flex-row items-center gap-6">
-                <span class="text-7xl font-serif text-charcoal">11</span>
+                <span class="text-7xl font-serif text-charcoal">14</span>
                 <div
                   class="flex flex-col border-l border-teal-deep/20 pl-6 text-left"
                 >
                   <span
                     class="text-xl font-bold uppercase tracking-widest text-charcoal"
-                    >Juli 2026</span
+                    >Desember 2026</span
                   >
                   <span
                     class="text-xs text-teal-deep font-bold uppercase tracking-[0.2em]"
-                    >Sabtu Siang</span
+                    >Senin Siang</span
                   >
                 </div>
               </div>
@@ -135,7 +135,7 @@
                   <p
                     class="text-sm text-charcoal/70 leading-relaxed italic font-serif"
                   >
-                    Gedung Pernikahan Bandung<br />Jl. Alamat Lengkap No. 123
+                    Kediaman Mempelai Wanita<br />Kp. Bojong Nangka, Ds. Bojong Catang, Kec.Tunjung Teja
                   </p>
                 </div>
               </div>
@@ -146,7 +146,7 @@
 
       <div class="mt-20 text-center" data-aos="zoom-in">
         <a
-          href="http://maps.google.com/?q=Gedung+Pernikahan+Bandung"
+          href="https://maps.app.goo.gl/zTKKUR5empcd4jH2A"
           target="_blank"
           class="group relative inline-flex items-center gap-4 bg-charcoal text-[#fdfbf9] px-12 py-5 rounded-full font-black shadow-xl overflow-hidden transition-all hover:scale-105 active:scale-95"
         >
